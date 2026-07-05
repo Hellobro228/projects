@@ -7,10 +7,10 @@
 
 **NLP**:
 
-* **classification_with_BERT** — 
-* **translation_RNN_attention_EN_DE** — 
+* **classification_with_BERT** — классификация комментариев с помощью BERT
+* **translation_RNN_attention_EN_DE** — RNN+attention переводчик с английского языка на немецкий 
 
 **Classic ML**:
 
-* **logreg_classification_text** — 
-* **trees** —
+* **logreg_classification_text** —  классификация текстов с реализацией собственного токенеизатора и использованием логистической регрессии
+* **trees** — реализация дерева решений с жадным построением и 
